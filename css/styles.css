@@ -11748,7 +11748,6 @@ body{
     font-size: 50px;
 }
 
-
 .area{
     background: #00000000;  
     background: -webkit-linear-gradient(to left, #7a7fdb, #353a96);  
@@ -11851,8 +11850,6 @@ body{
     animation-delay: 0s;
     animation-duration: 11s;
 }
-
-
 
 @keyframes animate {
 
