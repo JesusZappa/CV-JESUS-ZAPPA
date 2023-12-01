@@ -81,7 +81,9 @@
   }
 }
 
-
+body {
+  transition: opacity 0.2s ease-in-out;
+}
 
 body {
   margin: 0;
